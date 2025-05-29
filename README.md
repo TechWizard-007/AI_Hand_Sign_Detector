@@ -33,8 +33,7 @@ It can currently detect and interpret the following signs:
 
 - 📹 Real-time webcam-based detection  
 - 🧠 Smart gesture classification  
-- 🔡 Instant sign meaning display  
-- 🌐 Runs offline after setup  
+- 🔡 Instant sign meaning display   
 - 🎓 Great for learning sign language basics or computer vision  
 
 ---
