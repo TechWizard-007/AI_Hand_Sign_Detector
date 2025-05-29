@@ -52,3 +52,11 @@ It can currently detect and interpret the following signs:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/hand-sign-language-detector.git
+
+2. test File 🧪
+   Run The python file "test.py" and if you want your own hand🤚 data to be feeded just Start Data collector and make sure to kep pressing 's'to save your captures....atleast 3000 images of a single sign language
+
+
+
+   ![DeafThatGIF](https://github.com/user-attachments/assets/f31edaa7-6833-429b-94fe-9a0bfc13f7bb)
+
